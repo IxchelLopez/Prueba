@@ -1,0 +1,55 @@
+[33mcommit 1555b215db360ff743a7f31609448b0e9955b890[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ichicodes <ixchellopezalegre@gmail.com>
+Date:   Tue Jan 26 18:43:12 2021 +0100
+
+    he añadido dos nombres.
+
+[33mcommit 8813d24ad42f27c47a3a6fcd92f0dfd635eadb05[m
+Merge: 966a940 b23df02
+Author: MiguelALozano <miguelartedigital@gmail.com>
+Date:   Tue Jan 26 18:34:47 2021 +0100
+
+    prueba de migue
+
+[33mcommit 966a94043f0fbe6ad97068c84cc3536f391d11c8[m
+Merge: 37ed1fc ce55063
+Author: MiguelALozano <miguelartedigital@gmail.com>
+Date:   Tue Jan 26 18:30:46 2021 +0100
+
+    prueba de migue
+
+[33mcommit b23df0235e76c5876692e3597a44e2df91da1899[m
+Author: AlvaroQP <alvquipom@gmail.com>
+Date:   Tue Jan 26 18:27:26 2021 +0100
+
+    añadiendo archivo al repo de Ixchel
+
+[33mcommit 37ed1fc0558437efebe68c3ccd4860a374415b94[m
+Author: MiguelALozano <miguelartedigital@gmail.com>
+Date:   Tue Jan 26 18:22:21 2021 +0100
+
+    prueba de migue
+
+[33mcommit ce55063f4c49b8aeb8d92ed9539621773b37fd24[m
+Author: Ichicodes <ixchellopezalegre@gmail.com>
+Date:   Tue Jan 26 18:22:01 2021 +0100
+
+    Delete gatitos.txt.txt
+
+[33mcommit 3e183f372e2b6b6a281bd5eff7fe4d82781ad6c7[m
+Author: Ichicodes <ixchellopezalegre@gmail.com>
+Date:   Tue Jan 26 18:21:49 2021 +0100
+
+    Create gatitos.txt
+
+[33mcommit d22792a0c3604f6525c3c4ae1de9745d7e2a9328[m
+Author: Ichicodes <ixchellopezalegre@gmail.com>
+Date:   Tue Jan 26 18:20:51 2021 +0100
+
+    Create gatitos.txt.txt
+
+[33mcommit c72771f964bf0e9dc8ce4c4b02627f59ba9c98f2[m
+Author: Ichicodes <68382986+IxchelLopez@users.noreply.github.com>
+Date:   Tue Jan 26 18:16:02 2021 +0100
+
+    Initial commit
